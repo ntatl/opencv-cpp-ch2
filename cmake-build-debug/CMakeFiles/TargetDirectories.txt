@@ -1,0 +1,3 @@
+C:/Users/davdk/Desktop/OpenCV C++/Chapter 2/cmake-build-debug/CMakeFiles/Chapter_2.dir
+C:/Users/davdk/Desktop/OpenCV C++/Chapter 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/davdk/Desktop/OpenCV C++/Chapter 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
